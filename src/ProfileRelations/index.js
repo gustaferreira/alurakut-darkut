@@ -3,6 +3,7 @@ import Box from '../box';
 
 export const ProfileRelationsBoxWrapper = styled(Box)`
   ul {
+    background-color: #333333;
     display: grid;
     grid-gap: 8px;
     grid-template-columns: 1fr 1fr 1fr; 
